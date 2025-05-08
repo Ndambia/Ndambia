@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ndambia</h1>
+<h1 align="center">Hi 👋, I'm Ndambia</h1>
 <h3 align="center">A passionate Electronics Embedded engineer and ML Hobbist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndambia" alt="ndambia" /></a> </p>
