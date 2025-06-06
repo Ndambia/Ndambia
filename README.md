@@ -32,6 +32,7 @@ I'm actively seeking opportunities to collaborate on innovative **IoT and Machin
 *   **ML on the Edge**: Implementing machine learning models on resource-constrained devices.
 *   **Sensor Integration & Data Analysis**: Connecting the physical world to data-driven insights.
 *   **Embedded Systems Design**: From concept to prototype.
+*   **Agentic projet
 
 ...I'd love to hear from you!
 
