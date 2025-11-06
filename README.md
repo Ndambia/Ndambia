@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Ndambia 👋</h1>
 <h3 align="center">Bridging the Physical and Digital Worlds: Electronics Engineer & Machine Learning Enthusiast</h3>
 
-### <p align="center">
- ### <a href="https://github.com/ryo-ma/github-profile-trophy">
-    ###<img src="https://github-profile-trophy.vercel.app/?username=ndambia" alt="Ndambia's GitHub Trophies"/>
-  ### </a>
-### </p>
 
 I'm a passionate **Electronics Embedded Engineer** with a keen interest in **Machine Learning**, dedicated to developing innovative solutions at the intersection of hardware and intelligent software. I thrive on transforming complex challenges into practical, efficient systems. Whether it's designing intricate embedded systems or exploring the potential of ML on edge devices, I'm always eager to learn and contribute to impactful projects.
 
