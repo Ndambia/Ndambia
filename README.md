@@ -13,7 +13,7 @@ I'm a passionate **Electronics Embedded Engineer** with a keen interest in **Mac
 
 ---
 
-### 🌱 My Learning Journey
+###  My Learning Journey
 
 I'm continuously expanding my skillset. Currently, I'm deepening my knowledge in:
 *   **C/C++**: For robust and efficient embedded systems programming.
@@ -66,18 +66,9 @@ I'm actively seeking opportunities to collaborate on innovative **IoT and Machin
   <!-- Add other relevant tools like Docker, VS Code etc. -->
 </p>
 
----
 
-### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndambia&show_icons=true&locale=en&theme=tokyonight" alt="Ndambia's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndambia&layout=compact&locale=en&theme=tokyonight" alt="Ndambia's Top Languages"/>
-</p>
-
----
-
-### 📫 Get in Touch
+###  Get in Touch
 
 Interested in working together or have a question? Feel free to reach out!
 *   **Email:** [brianndambia6@gmail.com](mailto:brianndambia6@gmail.com)
