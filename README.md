@@ -21,7 +21,7 @@ I'm continuously expanding my skillset. Currently, I'm deepening my knowledge in
 
 ---
 
-### 🤝 Let's Collaborate!
+###  Let's Collaborate!
 
 I'm actively seeking opportunities to collaborate on innovative **IoT and Machine Learning projects**. If you're working on something exciting in these areas, or need expertise in:
 *   **ML on the Edge**: Implementing machine learning models on resource-constrained devices.
@@ -33,7 +33,7 @@ I'm actively seeking opportunities to collaborate on innovative **IoT and Machin
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 **Languages:**
 <p align="left">
