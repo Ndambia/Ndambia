@@ -8,7 +8,7 @@ I'm a passionate **Electronics Embedded Engineer** with a keen interest in **Mac
 
 ###  What I'm Currently Building
 
-*   **VS Code Agent Extension**: Working on [`Mini-LLM-Agent`](https://github.com/Ndambia/Mini-LLM-Agent.git), a project aimed at enhancing developer productivity within VS Code by integrating lightweight LLM capabilities. This involves [mention 1-2 key technologies or problems solved, e.g., Python, API integration, natural language processing for code assistance].
+
 *   **IoT & ML Integration**: Exploring the synergy between IoT and Machine Learning with [`ESPGPT`](https://github.com/Ndambia/ESPGPT.git). This project focuses on Device to device Authentication and block technology.
 
 *   **Biosignal & ML**: Working On Biosignal interface for filtering and Live analysis of Bio Signal.
