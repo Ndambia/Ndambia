@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ndambia a Machine Learning Engineer </h1>
+<h1 align="center">I'm Ndambia a Machine Learning Engineer </h1>
 <h3 align="center">Bridging the Data and Digital Worlds: Electronics Engineer & Machine Learning Enthusiast</h3>
 
 
