@@ -2,7 +2,7 @@
 <h3 align="center">Bridging the Data and Digital Worlds: Electronics Engineer & Machine Learning Enthusiast</h3>
 
 
-I'm a  passionare **Electronics Embedded Engineer** with a keen interest in **Machine Learning**, dedicated to developing innovative solutions at the intersection of hardware and intelligent software. I thrive on transforming complex challenges into practical, efficient systems. Whether it's designing intricate embedded systems or exploring the potential of ML on edge devices, I'm always eager to learn and contribute to impactful projects.
+I'm a  passionare **Electronics Embedded research Engineer** with a keen interest in **Machine Learning**, dedicated to developing innovative solutions at the intersection of hardware and intelligent software. I thrive on transforming complex challenges into practical, efficient systems. Whether it's designing intricate embedded systems or exploring the potential of ML on edge devices, I'm always eager to learn and contribute to impactful projects.
 
 ---
 
