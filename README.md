@@ -11,7 +11,7 @@ I'm a  passionare **Electronics Embedded research Engineer** with a keen interes
 
 *   **IoT & ML Integration**: Exploring the synergy between IoT and Machine Learning with [`ESPGPT`](https://github.com/Ndambia/ESPGPT.git). This project focuses on Device to device Authentication and block technology.
 
-*   **Biosignal & ML**: Working On Biosignal interface for filtering and Live analysis of Bio Signal.
+*   **Biosignal & ML**: Working on Biosignal interfacing for robotic arm movement.
 
 
 ---
